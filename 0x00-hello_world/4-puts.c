@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - main entry function that prints inpust withing puts
-*Return : always return 0 (success)
+ *main - a function that prints a given input within puts
+ *Return - 0 - (Success)
 */
 int main(void)
 {
