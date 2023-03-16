@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main function
+ * main - main entry function
 */
 int main(void)
 {
