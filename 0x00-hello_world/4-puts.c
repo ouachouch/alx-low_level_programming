@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - main entry function
+*main - main entry function that print inpust withing puts
 *return : always return 0 (success)
 */
 int main(void)
